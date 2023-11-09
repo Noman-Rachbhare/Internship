@@ -38,4 +38,4 @@ This web development project aims to create a website with three main features: 
 ## Usage
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/Mmustafa-772002/web_devlopment_Internship
+   git clone https://github.com/Noman-Rachbhare/Internship1
